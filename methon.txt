@@ -1,0 +1,14 @@
+git add .
+git commit -m''
+git reset --hard id
+
+git remote add oragin branch
+git push oragin branch
+git push oragin branch
+
+
+git status 
+git log --oneline
+git branch branchname
+git checkout branchname
+
